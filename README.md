@@ -3,7 +3,7 @@ A repository to help show off and practice GitHub features.
 
 ## Resources
 
-These are the resources mentioned in our [demo issue #1](https://github.com/MERLTech/github-demo/issues/1).
+These are the resources mentioned in our [demo issue #1](https://github.com/MERLCenter/github-demo/issues/1).
 
 ### GitHub Guides
 
